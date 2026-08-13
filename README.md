@@ -1,6 +1,6 @@
 # Bounce
 
-Create polished vertical music videos from your audio and phone footage.
+Bounce is a macOS app for turning music into engaging, audio-reactive videos using phone footage, existing clips, or still images.
 
 ## Download
 
