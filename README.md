@@ -2,14 +2,12 @@
 
 Bounce turns music into audio-reactive videos for your phone footage, clips and still images.
 
-## Bounce is now on the Mac App Store
+## Download
 
-**[Get Bounce on the Mac App Store](https://apps.apple.com/app/id6815020633)**
+**[Download Bounce for Mac](https://github.com/subchild/bounce-releases/releases/latest/download/Bounce.dmg)** (Apple Silicon, macOS 15.2 or later)
 
-Bounce 1.0 and every future release are available exclusively on the Mac App Store, where Apple handles installation and updates. Learn more at [bounce.show](https://bounce.show).
+Free to try with 3 exports. Unlock unlimited exports with a one-time $10 license from [bounce.show](https://bounce.show). Bounce is signed and notarized by Apple.
 
-## About the releases in this repository
-
-The releases here (v0.1.0 to v0.3.0) are early pre-1.0 previews. They are kept for historical reference only and are **unsupported**. Their downloadable installers have been removed; the tags and release notes remain.
+Bounce is also on the [Mac App Store](https://apps.apple.com/app/id6815020633). The two are separate editions: a license key doesn't unlock the App Store version, and an App Store purchase doesn't unlock this download.
 
 Questions or feedback: [bounce.show/support](https://bounce.show/support)
